@@ -1,0 +1,48 @@
+body{
+	
+}
+
+input[type=number]{
+	width:50px;
+	float:left;
+}
+
+div#btnTest{
+	margin:0 0 10 0;
+}
+
+label{
+	float:left;
+}
+
+div#red, div#green, div#blue{
+	margin:5 15 0 5;
+	width:90%;
+	float:left;
+}
+
+div#colorpicker, div#color{
+	background-color: white;
+	border: solid 3px gray;
+	width:35%;
+	text-align: center;
+	height:2em;
+	padding-top:10px;
+	padding-bottom: 50px;
+	margin:0 0 0 0;
+	/*top, right, bottom, left*/
+}
+
+div#colorpicker{
+	border-bottom:none;
+}
+
+div#color{
+	border-top:none;
+}
+
+div.class{
+    height:250px;
+    width:50%;
+    float:right;
+}
