@@ -2,6 +2,8 @@
 I was tired of the tiny 50 pixels by 50 pixels square. So I made my own. all written with jQuery, html and css.
 
 #Color.js
+Beneath will folow a general introduction to what each function does and what's special about them.
+
 #loadIn
 The function loadIn is used to set up the 3 sliders, one for each color in RGB (So Red, Blue and Green).
 
